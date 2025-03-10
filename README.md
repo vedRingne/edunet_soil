@@ -10,7 +10,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/soil-fertility-prediction.git
+git clone https://github.com/vedRingne/soil-fertility-prediction.git
 cd soil-fertility-prediction
 Install required libraries:
 bash
